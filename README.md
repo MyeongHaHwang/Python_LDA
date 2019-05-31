@@ -9,3 +9,5 @@ ABC News 헤드라인 수집 데이터
 1. abcnews_headline_2015_12.csv : ABC News 2015년 12월 기록 파일 (실습 파일)
 2. abcnews_headline_2015.csv : ABC News 2015년 전체 기록 파일
 3. abcnews_headline_full.csv : ABC News 2003년 2월 19일 ~ 2016년 10월 17일 전체 기록 파일
+
+참고사이트: https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
